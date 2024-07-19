@@ -9,7 +9,7 @@ public class Operadoreslogicos {
         boolean operacion2=(a<0 || a>6);
         System.out.println(operacion2);
         
-        int b=-1;
+        int b=4;
         boolean operacion3=!(b<0);
         System.out.println(operacion1);
     }
