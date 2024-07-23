@@ -11,6 +11,6 @@ public class Operadoreslogicos {
         
         int b=4;
         boolean operacion3=!(b<0);
-        System.out.println(operacion1);
+        System.out.println(operacion3);
     }
 }
